@@ -1,3 +1,3 @@
-# nuxt-BREAD-RESTAPI
+# nuxt-BREAD-RESTAPI (MongoDB)
 
 segera release
